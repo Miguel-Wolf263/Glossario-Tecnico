@@ -1,0 +1,167 @@
+body {
+    background-color: black;
+}
+
+.container-geral {
+    display: flex;          /* lado a lado das colunas */
+    gap: 30px;              /* espaço entre as colunas */
+  }
+  
+  .coluna {
+    display: flex;
+    flex-direction: column; /* empilha os cards verticalmente */              /* espaço entre os cards */
+  }
+  
+  .card {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 100px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+  }
+
+.card-div {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-img {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-sect {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-paragrafo {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 140px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-br {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-botao {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-body {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 320px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-h1 {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 250px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-head {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 270px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
+
+.card-main {
+    background: #000000;
+    color: white;
+    padding: 1px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 240px;
+    margin-top: 50px;
+    border: 2px solid rgb(255, 230, 0);
+}
